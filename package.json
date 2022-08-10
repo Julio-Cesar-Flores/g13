@@ -1,0 +1,25 @@
+{
+  "name": "g13",
+  "version": "1.0.0",
+  "description": "algo",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "type" : "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julio-Cesar-Flores/g13.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Julio-Cesar-Flores/g13/issues"
+  },
+  "homepage": "https://github.com/Julio-Cesar-Flores/g13#readme",
+  "dependencies": {
+    "mongoose": "^6.5.1"
+  }
+}
